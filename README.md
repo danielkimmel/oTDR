@@ -1,2 +1,2 @@
 # oTDR
-Optimal targeted dimensionality reduction and associated metrics and statistics
+Optimal targeted dimensionality reduction and associated metrics and statistics 
