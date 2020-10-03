@@ -26,7 +26,7 @@ Once obtaining the processed results (either by running oTDR against the raw dat
 * MATLAB version 9.6.0.1335978 (R2019a) with the following toolboxes (this list is not necessarily comprehensive): 
 	* Statistics and Machine Learning Toolbox
 	* Parallel Computing Toolbox
-* The following publicly available MATLAB packages are bundled with the current package—including manoptToolBox and tensorMaxEntropy (see [packages](packages/))—and are not required. However, problems could arise if you have alternative versions of these packages installed and listed in your MATLAB path before the current package.
+* Additional publicly available MATLAB packages are bundled with the current package—including manoptToolBox and tensorMaxEntropy (see [packages](packages/))—and therefore do not require separate installation. However, problems could arise if you have alternative versions of these packages installed and listed in your MATLAB path before the current package.
 
 ## Credits
 oTDR was developed by [Daniel L. Kimmel](https://github.com/danielkimmel) and [Gamaleldin F. Elsayed](https://github.com/gamaleldin), who would like to thank John Cunningham (Columbia University), Bill Newsome (Stanford University) and Valerio Mante (University of Zurich) for guidance and support. This work was supported by the Howard Hughes Medical Institute, Stanford Bio-X, Leon Levy Foundation, and NIH Grants T32 GM007365, R25 MH086466, and T32 MH015144 (D.L.K.) and the Columbia Neurobiology and Behavior Program (G.F.E.).
